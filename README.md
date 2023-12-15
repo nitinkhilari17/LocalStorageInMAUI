@@ -1,1 +1,1 @@
-# LocalStorageInMAUI
+When you're building mobile applications, it's common to store data locally on a device for performance reasons. .NET MAUI allows you to cache data locally on the device on which the application is running. You can store this data using several different technologies. To store relational data, you can use a SQLite database.
